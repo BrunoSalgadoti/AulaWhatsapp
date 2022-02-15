@@ -1,6 +1,6 @@
 # whatsapp
 
-Aula Udemy Watsapp
+Demosntração de aprendizado de um APP Flutter parecido com WhatsApp
 
 ## Getting Started
 
