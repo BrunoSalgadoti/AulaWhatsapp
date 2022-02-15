@@ -1,6 +1,6 @@
 # whatsapp
 
-Demosntração do meu aprendizado de um APP produzido na IDE Android com SDK Flutter na linguagem script Dart (um teste "similar" ao WhatsApp) e a demonstração de uso da API do Firebase
+Demosntração do meu aprendizado de um APP produzido na IDE Android com SDK Flutter na linguagem script Dart (um teste "similar" ao WhatsApp) e a pratica no uso da API do Firebase
 
 ## Getting Started
 
