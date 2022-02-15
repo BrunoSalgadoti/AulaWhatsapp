@@ -1,6 +1,6 @@
 # whatsapp
 
-Demosntração de aprendizado de um APP produzido na IDE Android com SDK Flutter na linguagem script Dart (um teste "similar" ao WhatsApp)
+Demosntração do meu aprendizado de um APP produzido na IDE Android com SDK Flutter na linguagem script Dart (um teste "similar" ao WhatsApp)
 
 ## Getting Started
 
