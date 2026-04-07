@@ -1,16 +1,60 @@
-# whatsapp
+# WhatsApp UI Clone (Educational Project)
 
-Demosntração do meu aprendizado de um APP produzido na IDE Android com SDK Flutter na linguagem script Dart (um teste "similar" ao WhatsApp) e a pratica no uso da API do Firebase
+## Overview
+This project is a mobile application developed using Flutter, designed to replicate the core interface and interaction patterns of a messaging application similar to WhatsApp.
 
-## Getting Started
+It focuses on UI construction, navigation flow, and component structuring, serving as a technical demonstration of mobile interface development.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- Chat interface layout
+- Contact list structure
+- Message screen design
+- Navigation between screens
+- Reusable UI components
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+---
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+- Flutter (Dart)
+- Material UI
+- Stateful and Stateless Widgets
+
+---
+
+## Status
+Completed
+
+---
+
+## Purpose
+Educational / Technical Demonstration
+
+This project was developed to explore and demonstrate mobile UI architecture, layout structuring, and component-based design using Flutter.
+
+---
+
+## Screenshots
+*(Add screenshots here if available)*
+
+---
+
+## Installation
+
+1. Clone the repository:
+git clone https://github.com/BrunoSalgadoti/AulaWhatsapp.git
+
+2. Navigate to the project folder:
+Aulawhatsapp
+
+3. Install dependencies:
+flutter pub get
+
+4. Run the application:
+flutter run
+
+## Notes
+This project does not implement real-time messaging or backend communication.
+Its focus is strictly on front-end structure and UI behavior.
+
